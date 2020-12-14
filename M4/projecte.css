@@ -1,0 +1,45 @@
+body {
+    font-style: verdana;
+}
+header {
+    font-size: 36px;
+    text-align: center;
+}
+ul {
+    text-align: left;
+}
+#Informes {
+    display: flex;
+    align-items: center;
+    flex-direction: column;  
+}
+#Mano-mas-repetida {
+    border-radius: 20px;
+    border: 1px solid black;
+    background-color: red;
+}
+#Apuesta-mas-alta {
+    border-radius: 20px;
+    border: 1px solid black;
+    background-color: orange;
+}
+#Apuesta-mas-baja {
+    border-radius: 20px;
+    border: 1px solid black;
+    background-color: yellow;
+}
+#Ratio-mas-apuesta-media {
+    border-radius: 20px;
+    border: 1px solid black;
+    background-color: green;
+}
+#Nemesis {
+    border-radius: 20px;
+    border: 1px solid black;
+    background-color: blue;
+}
+#Wins {
+    border-radius: 20px;
+    border: 1px solid black;
+    background-color: purple;
+}
